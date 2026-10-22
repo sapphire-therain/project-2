@@ -1,0 +1,135 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+custom {
+cursor: url('https://img.icons8.com/?size=100&id=lKCm3MZ2sLVV&format=png&color=d2c288'), auto;
+}
+
+body {
+    background-color:#060C23;
+    color:#D2C288;
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal; 
+    margin:0;
+    padding:0;
+}
+
+nav {
+    border: 0 solid #C79C00;
+    background: #060C23;
+    box-shadow: 0 0 38.6px 12px #C78E00;
+    width: 100vw; 
+    padding: .5rem;
+}
+
+a {
+    color: #D2C288;
+    text-decoration-line: none;
+    margin-right:1rem
+}
+
+h1 {
+    padding: 4rem 2rem 1rem 7rem
+    text-align: right;
+}
+
+.constellation {
+    position: absolute;
+    top:2.5rem;
+    z-index: -2; 
+}
+
+.constellation img {
+    max-width: 20rem;
+}
+
+.contents{
+    margin-top: 12rem;
+}
+.section {
+padding: 1rem; 
+}
+
+.section .inner {
+ border-radius: 11px;
+border: 3px solid #FFF;
+background: #D2C288;
+box-shadow: 0 4px 28.1px 0 #C79C00;
+color:#060C23    
+}
+
+.section .inner p {
+    font-size: .7rem;
+}
+
+.section h2{
+font-size: 1rem;
+}
+
+.section p{
+    font-size: .7rem;
+}
+
+body {
+    background-color:#060C23;
+    color:#D2C288;
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal; 
+    margin:0;
+    padding:0;
+}
+
+nav {
+    border: 0 solid #C79C00;
+    background: #060C23;
+    box-shadow: 0 0 38.6px 12px #C78E00;
+    width: 100vw; 
+    padding: .5rem;
+}
+
+a {
+    color: #D2C288;
+    text-decoration-line: none;
+    margin-right:1rem
+}
+
+
+.constellation {
+    position: absolute;
+    top:2.5rem;
+    z-index: -2; 
+}
+
+.constellation img {
+    max-width: 20rem;
+}
+
+.contents{
+    margin-top: 12rem;
+}
+.section {
+padding: 1rem; 
+}
+
+.section .inner {
+ border-radius: 11px;
+border: 3px solid #FFF;
+background: #D2C288;
+box-shadow: 0 4px 28.1px 0 #C79C00;
+}
+
+.section .inner p {
+    font-size: .7rem;
+}
+
+.section h2{
+ font-size: 2rem;
+}
+
+.section p{
+    font-size: .4rem;
+    color:#060C23
+}
+  
